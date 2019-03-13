@@ -1,23 +1,24 @@
 {
-  "name": "Daily-Background",
-  "version": "1.0.0",
-  "description": "An Electron application to change desktop background daily using Unsplash's api",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/MoutamanKamal/Daily-Background.git"
-  },
-  "keywords": [],
-  "author": "Moutaman Kamal",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/MoutamanKamal/Daily-Background/issues"
-  },
-  "homepage": "https://github.com/MoutamanKamal/Daily-Background#readme",
-  "devDependencies": {
-    "electron": "^4.0.1"
-  }
+	"name": "Daily-Background",
+	"version": "1.0.0",
+	"description": "An Electron application to change desktop background daily using Unsplash's api",
+	"main": "index.js",
+	"scripts": {
+		"start": "electron .",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/MoutamanKamal/Daily-Background.git"
+	},
+	"keywords": [],
+	"author": "Moutaman Kamal",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/MoutamanKamal/Daily-Background/issues"
+	},
+	"homepage": "https://github.com/MoutamanKamal/Daily-Background#readme",
+	"devDependencies": {
+		"electron": "^4.0.1"
+	}
 }
